@@ -282,4 +282,8 @@ $RECYCLE.BIN/
 __pycache__/
 venv
 
+deep_learning/flower_photos/
+mlflow/mlruns/
+mlruns/
+
 # End of https://www.gitignore.io/api/go,helm,linux,macos,windows,eclipse,intellij+all,vim
